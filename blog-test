@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+	<META charset"utf-8">
+	<TITLE>John's Blog</TITLE>
+</HEAD>
+<body>
+	<STYLE>
+	  	h1 {
+text-align: center;
+		background-color: yellow;
+			}
+	   	h6 {
+font-family: "Verdana", monospace;
+			color: red;
+			}	
+	</STYLE>
+
+<BODY>
+	<h1>John's blog</h1>
+<!--
+	<img src="BeansOM.jpg" alt="John at Beans in the Belfry" />
+
+	<h3>Contents</h3>
+	
+	<ul>
+		<a href="#get-started">	<li>So Let's Get Started!</li></a>
+		<a href="#making-progress"><li>Making Progress</li></a>
+	</ul>
+
+	<br>
+
+	<h6>Jan 15, 2016</h6>
+
+	<h2 id="get-started">So Let's Get Started!</h2>
+	
+	<p>Starting a blog to complete a project for Khan Academy's lesson <em>Intro to HTML/CSS: Making Webpages.</em> Hope I can keep it up for a worthwhile project. We'll see...</p>
+
+	<br>
+	
+	<h2 id="making-progress">Making Progress</h2>
+
+	<p>So I made the first blog entry. Added em/italics for the lesson title. Then found out how to center the title and added background to title while I was at it. Finally wanted the dateto stand out, so I gave the h6/date a color and font-family.
+	</p>
+-->
+</BODY>
+</HTML>
